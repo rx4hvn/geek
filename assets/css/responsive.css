@@ -1,0 +1,13 @@
+@media (max-width: 1440px) {
+    .container {
+        padding-top: 10%;
+    }
+
+    section.agencies-design .container, section.agencies-build .container, section.agencies-both .container {
+        padding-top: 5%;
+    }
+
+    section.agencies-design .container .info, section.agencies-build .container .info, section.agencies-both .container .info {
+        margin-top: 5%;
+    }
+}
