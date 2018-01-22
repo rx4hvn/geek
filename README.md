@@ -12,4 +12,5 @@ Author: [Ashok Shah](https://www.shahnashok.com)
 - Firefox
 
 ##Screenshots
+
 ![Game screen](https://rx4hvn.github.io/geek/assets/img/brand.png)
